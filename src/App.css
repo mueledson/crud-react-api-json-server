@@ -1,0 +1,32 @@
+body{
+  background-color: #242424;
+}
+
+.container{color: #FFF;}
+
+form{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.adicionar, .inputs{
+  width: 1000px;
+  border-radius: 5px;
+  background-color: #FFF;
+  cursor: pointer;
+  border: 0;
+  color: #1A1A1A;
+  margin-bottom: 10px;
+  transition: all .5s;
+}
+
+.inputs{
+  outline: 0;
+}
+
+.adicionar:hover{
+  opacity: .7;
+  transition: all .5s;
+}

@@ -1,0 +1,40 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "nome": "Bulbasaur",
+      "tipo1": "Grama",
+      "tipo2": "Veneno"
+    },
+    {
+      "id": 2,
+      "nome": "Ivysaur",
+      "tipo1": "Grama",
+      "tipo2": "Veneno"
+    },
+    {
+      "id": 3,
+      "nome": "Venosaur",
+      "tipo1": "Grama",
+      "tipo2": "Veneno"
+    },
+    {
+      "id": 4,
+      "nome": "Charmander",
+      "tipo1": "Fogo",
+      "tipo2": "Fogo"
+    },
+    {
+      "id": 5,
+      "nome": "Charmeleon",
+      "tipo1": "Fogo",
+      "tipo2": "Fogo"
+    },
+    {
+      "id": 6,
+      "nome": "Charizard",
+      "tipo1": "Fogo",
+      "tipo2": "Voador"
+    }
+  ]
+}
